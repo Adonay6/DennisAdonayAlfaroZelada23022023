@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\bin\Debug\net6.0\BUCLE sem5.exe
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\bin\Debug\net6.0\BUCLE sem5.deps.json
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\bin\Debug\net6.0\BUCLE sem5.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\bin\Debug\net6.0\BUCLE sem5.dll
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\bin\Debug\net6.0\BUCLE sem5.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.dll
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\refint\BUCLE sem5.dll
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\BUCLE sem5.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\GitHub\DennisAdonayAlfaroZelada23022023\BUCLE sem5\obj\Debug\net6.0\ref\BUCLE sem5.dll

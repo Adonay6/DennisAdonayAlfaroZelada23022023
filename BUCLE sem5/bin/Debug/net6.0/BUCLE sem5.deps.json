@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BUCLE sem5/1.0.0": {
+        "runtime": {
+          "BUCLE sem5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BUCLE sem5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
